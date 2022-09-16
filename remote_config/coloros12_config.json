@@ -1,0 +1,13 @@
+{
+  "latestVersion": "2.0",
+  "latestVersionCode": 6,
+  "disableRequest": {
+    "below": 5,
+    "on": "0 1 2 3 4 5"
+ },
+  "url": "https://play.google.com/store/apps/details?id=com.debojyoti.coloros12_icpack",
+  "releaseNotes": [
+    "Icon Requests are temporarily disabled",
+    "Major update soon"
+  ]
+}
